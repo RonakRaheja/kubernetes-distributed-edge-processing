@@ -1,0 +1,2 @@
+# kubernetes-distributed-edge-processing
+ENABLING KUBERNETES FOR DISTRIBUTED AI PROCESSING ON EDGE DEVICES
